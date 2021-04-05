@@ -1,0 +1,19 @@
+﻿  Function.cpp
+Q:\C++ project\Github repozitorii\Rep\Tetris\Тетрис1\Variables.h(64,19): warning C4305: инициализация: усечение из "double" в "float"
+Q:\C++ project\Github repozitorii\Rep\Tetris\Тетрис1\Function.cpp(33,13): warning C4305: =: усечение из "double" в "float"
+Q:\C++ project\Github repozitorii\Rep\Tetris\Тетрис1\Function.cpp(81,17): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+Q:\C++ project\Github repozitorii\Rep\Tetris\Тетрис1\Function.cpp(171,58): warning C4305: =: усечение из "double" в "float"
+Q:\C++ project\Github repozitorii\Rep\Tetris\Тетрис1\Function.cpp(172,55): warning C4305: =: усечение из "double" в "float"
+Q:\C++ project\Github repozitorii\Rep\Tetris\Тетрис1\Function.cpp(290,14): warning C4305: =: усечение из "double" в "float"
+Q:\C++ project\Github repozitorii\Rep\Tetris\Тетрис1\Function.cpp(294,15): warning C4305: =: усечение из "double" в "float"
+Q:\C++ project\Github repozitorii\Rep\Tetris\Тетрис1\Function.cpp(298,15): warning C4305: =: усечение из "double" в "float"
+Q:\C++ project\Github repozitorii\Rep\Tetris\Тетрис1\Function.cpp(302,14): warning C4305: =: усечение из "double" в "float"
+Q:\C++ project\Github repozitorii\Rep\Tetris\Тетрис1\Function.cpp(368,33): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+Q:\C++ project\Github repozitorii\Rep\Tetris\Тетрис1\Function.cpp(368,25): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+Q:\C++ project\Github repozitorii\Rep\Tetris\Тетрис1\Function.cpp(385,42): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+Q:\C++ project\Github repozitorii\Rep\Tetris\Тетрис1\Function.cpp(385,29): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+Q:\C++ project\Github repozitorii\Rep\Tetris\Тетрис1\Function.cpp(390,48): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+Q:\C++ project\Github repozitorii\Rep\Tetris\Тетрис1\Function.cpp(390,35): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  Main.cpp
+  Создание кода...
+  Тетрис1.vcxproj -> Q:\C++ project\Github repozitorii\Rep\Tetris\x64\Debug\Тетрис1.exe
