@@ -1,4 +1,4 @@
-#include "Forward declaration.h"
+п»ї#include "Forward declaration.h"
 #include<Windows.h>
 
 INT  WinMain(HINSTANCE hInstance, HINSTANCE hPrevInstance, LPSTR lpCmdLine, INT nCmdShow)
@@ -6,7 +6,7 @@ INT  WinMain(HINSTANCE hInstance, HINSTANCE hPrevInstance, LPSTR lpCmdLine, INT 
 	srand(Random());
 
 
-	//////Блок /-загрузки и переменные-\   \\\\\\\\
+	//////Р‘Р»РѕРє /-Р·Р°РіСЂСѓР·РєРё Рё РїРµСЂРµРјРµРЅРЅС‹Рµ-\   \\\\\\\\
 
 	Texture texture, fon;
 	texture.loadFromFile("Tetris_blocks1.png");		
@@ -66,8 +66,8 @@ INT  WinMain(HINSTANCE hInstance, HINSTANCE hPrevInstance, LPSTR lpCmdLine, INT 
 
 
 
-	Music music;//создаем объект музыки
-	music.openFromFile("voxel.ogg");//загружаем файл
+	Music music;//СЃРѕР·РґР°РµРј РѕР±СЉРµРєС‚ РјСѓР·С‹РєРё
+	music.openFromFile("voxel.ogg");//Р·Р°РіСЂСѓР¶Р°РµРј С„Р°Р№Р»
 	music.setVolume(10);
 	music.setLoop(1);
 	
